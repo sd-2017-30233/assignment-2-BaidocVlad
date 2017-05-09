@@ -1,0 +1,14 @@
+ID: 2
+Title: The Lord of the Rings
+Author: J. R. R. Tolkien
+Year: 1954
+Quantity: 0
+
+
+ID: 10
+Title: ceva
+Author: autorul
+Year: 2011
+Quantity: 0
+
+
